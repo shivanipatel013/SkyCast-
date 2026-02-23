@@ -1,6 +1,6 @@
 # 🌤 SkyCast – Modern Weather App
 
-> A beautiful and responsive Weather Application built using HTML, CSS, and JavaScript that fetches real-time weather data using OpenWeather API.
+A beautiful and responsive Weather Application built using HTML, CSS, and JavaScript that fetches real-time weather data using OpenWeather API.
 
 ---
 
@@ -24,11 +24,11 @@
 
 ## 🛠 Tech Stack
 
-HTML5
-CSS3 (Styling & Animations)
-JavaScript (ES6) 
-Logic & API Handling 
-OpenWeather API 
+- HTML5
+- CSS3 (Styling & Animations)
+- JavaScript (ES6) 
+- Logic & API Handling 
+- OpenWeather API 
 
 ---
 
